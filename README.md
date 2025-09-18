@@ -1,6 +1,4 @@
-Here is the content for your `README.md` file. You can copy and paste this text directly into a new file named `README.md` in your project's root directory.
 
------
 
 # 🍏 Nutrient Scanner App
 
